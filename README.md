@@ -1,2 +1,2 @@
 # Machine-Learning-Exercises
-Various use cases with ML analytical methodologies
+Various use cases applying statistical methodologies with ML algorithms
